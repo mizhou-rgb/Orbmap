@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "DA1F2784-B94D-4AEF-8011-8FDF9846431D"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "0507F701-3F81-44DB-862B-24E6405405D0"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Features/OrbLab/OrbImageView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "17"
+            endingLineNumber = "17"
+            landmarkName = "OrbShaderParameters"
+            landmarkType = "14">
+            <Locations>
+               <Location
+                  uuid = "0507F701-3F81-44DB-862B-24E6405405D0 - 5db4e8f5e86f1047"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "OrbMap.OrbShaderParameters.init() -&gt; OrbMap.OrbShaderParameters"
+                  moduleName = "OrbMap.debug.dylib"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mizhou/Documents/GitHub/CS193p/OrbMap/Features/OrbLab/OrbImageView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "17"
+                  endingLineNumber = "17">
+               </Location>
+               <Location
+                  uuid = "0507F701-3F81-44DB-862B-24E6405405D0 - cd6b588e38ac2ea0"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "default argument 13 of OrbMap.OrbShaderParameters.init(photoRange: Swift.Float, primaryBlurRadius: Swift.Float, surfaceBlurRadius: Swift.Float, blueOffsetX: Swift.Float, blueOffsetY: Swift.Float, redOffsetX: Swift.Float, redOffsetY: Swift.Float, lowerLeftRippleFrequency: Swift.Float, lowerLeftRippleAmount: Swift.Float, lowerLeftRippleSpeed: Swift.Float, rightDownRippleFrequency: Swift.Float, rightDownRippleAmount: Swift.Float, rightDownRippleSpeed: Swift.Float, ripplePhase: Swift.Float, pinchAmount: Swift.Float, vignetteAmount: Swift.Float, vignetteSize: Swift.Float, vignetteFalloff: Swift.Float, exposure: Swift.Float, gamma: Swift.Float, gamutMap: Swift.Float) -&gt; OrbMap.OrbShaderParameters"
+                  moduleName = "OrbMap.debug.dylib"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mizhou/Documents/GitHub/CS193p/OrbMap/Features/OrbLab/OrbImageView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "17"
+                  endingLineNumber = "17">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
