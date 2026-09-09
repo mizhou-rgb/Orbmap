@@ -1,0 +1,38 @@
+# OrbMap
+
+OrbMap is an experimental map-based memory product for recording **sound and images in place**.
+
+Users can capture a photo and a sound at a specific location.  
+The image is transformed into an abstract animated **orb**, while the sound is preserved as part of that location-based memory.
+
+Instead of displaying memories as conventional photo pins, OrbMap explores a more emotional and abstract way of representing personal experiences on a map.
+
+## Product Concept
+
+Each location can contain:
+- an image
+- a sound recording
+- an abstract animated orb generated from the image
+
+The orb acts as a visual representation of the memory rather than a direct reproduction of the original photo.
+
+## Current Progress
+
+Completed:
+- Image input
+- Image-to-orb visual transformation
+- Dynamic orb generation prototype
+
+In progress:
+- Sound recording
+- Location-based memory storage
+- Map interaction
+- Playback and memory browsing
+
+## Role
+
+Product concept, interaction design, visual system and SwiftUI prototyping.
+
+## Status
+
+Work in progress.
